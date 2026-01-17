@@ -1,5 +1,4 @@
 # Лабораторная работа 3
-создание виртуалки
 
 1. Доступ машины А в сеть интернет
 <img width="764" height="647" alt="image" src="https://github.com/user-attachments/assets/46dae2e3-a7e1-4cf8-a2bd-93cf9b31e9cd" />
@@ -7,7 +6,6 @@
 
 2. Доступ из машины А в машину В:
 
-новое скрин
 <img width="1112" height="476" alt="image" src="https://github.com/user-attachments/assets/86b87b66-6497-4fc9-9d1e-b146098d2e80" />
 
 
