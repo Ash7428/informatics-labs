@@ -18,3 +18,5 @@
 5. Отсутсвие доступа из машины С в машину В:
    <img width="1546" height="882" alt="image" src="https://github.com/user-attachments/assets/0d6699f7-8df8-4e9d-8846-689842ab6475" />
 
+vvv
+<img width="1546" height="882" alt="image" src="https://github.com/user-attachments/assets/c29b1cef-99c4-4a19-b2f5-0d2c8eba647b" />
