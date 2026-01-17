@@ -12,7 +12,9 @@
 
 
 3. Доступ из машины А в машину С:
-  <img width="1660" height="777" alt="image" src="https://github.com/user-attachments/assets/9ae45ce6-274b-421a-a02f-4ce32206791f" />
+
+<img width="1660" height="777" alt="image" src="https://github.com/user-attachments/assets/9e4f711e-a4d1-4775-8025-2f8bafa6e1d8" />
+
 
 
 4. Отсутсвие доступа из машины С в машину В:
