@@ -12,3 +12,6 @@
 
 создаем два новых контейнера
 <img width="1224" height="255" alt="image" src="https://github.com/user-attachments/assets/85cb1fed-c15d-4979-86d3-24564c4e3373" />
+
+сощдаем сеть и подключаем к ней контейнеры
+<img width="619" height="549" alt="image" src="https://github.com/user-attachments/assets/1766b831-62c5-4a84-bab4-32e78d4b5467" />
