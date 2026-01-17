@@ -6,3 +6,9 @@
 <img width="1127" height="418" alt="image" src="https://github.com/user-attachments/assets/c1b7d58c-9404-4b99-8273-ea3c3e068148" />
 
 <img width="1135" height="978" alt="image" src="https://github.com/user-attachments/assets/80319fe5-7c19-43dc-a7ab-466d9913e619" />
+
+новое содердимое докер файл
+<img width="1153" height="617" alt="image" src="https://github.com/user-attachments/assets/1984038d-60e0-4b8b-8d1b-84a890290d0d" />
+
+создаем два новых контейнера
+<img width="1224" height="255" alt="image" src="https://github.com/user-attachments/assets/85cb1fed-c15d-4979-86d3-24564c4e3373" />
