@@ -14,4 +14,6 @@
 <img width="1224" height="255" alt="image" src="https://github.com/user-attachments/assets/85cb1fed-c15d-4979-86d3-24564c4e3373" />
 
 сощдаем сеть и подключаем к ней контейнеры
-<img width="619" height="549" alt="image" src="https://github.com/user-attachments/assets/1766b831-62c5-4a84-bab4-32e78d4b5467" />
+<img width="523" height="64" alt="image" src="https://github.com/user-attachments/assets/98937db5-0fee-4551-90ed-30fc7c3b7842" />
+
+<img width="787" height="985" alt="image" src="https://github.com/user-attachments/assets/0da2f979-9990-4a92-a274-86cf8d9e5d73" />
