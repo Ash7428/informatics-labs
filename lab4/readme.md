@@ -19,5 +19,7 @@
 
 <img width="787" height="985" alt="image" src="https://github.com/user-attachments/assets/0da2f979-9990-4a92-a274-86cf8d9e5d73" />
 
-пингуем из рута
+заходим в **root** одного из контейнеров и пингуем отткда другой:
 <img width="1128" height="514" alt="image" src="https://github.com/user-attachments/assets/90302fae-bd57-484b-82b4-e91ba7b87125" />
+
+Пинг прошел успешно, выходим из под корня и удаляем контейнеры командой `docker rm $(docker ps -a -q)`
