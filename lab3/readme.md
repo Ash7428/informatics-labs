@@ -6,7 +6,6 @@
 
 
 2. Доступ из машины А в машину В:
-<img width="1605" height="684" alt="image" src="https://github.com/user-attachments/assets/1e986918-6f8a-4b5b-8bdc-6986f1397b9b" />
 
 новое скрин
 <img width="1112" height="476" alt="image" src="https://github.com/user-attachments/assets/86b87b66-6497-4fc9-9d1e-b146098d2e80" />
