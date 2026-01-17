@@ -17,3 +17,6 @@
 <img width="523" height="64" alt="image" src="https://github.com/user-attachments/assets/98937db5-0fee-4551-90ed-30fc7c3b7842" />
 
 <img width="787" height="985" alt="image" src="https://github.com/user-attachments/assets/0da2f979-9990-4a92-a274-86cf8d9e5d73" />
+
+пингуем из рута
+<img width="1128" height="514" alt="image" src="https://github.com/user-attachments/assets/90302fae-bd57-484b-82b4-e91ba7b87125" />
