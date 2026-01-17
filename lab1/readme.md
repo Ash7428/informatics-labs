@@ -32,4 +32,8 @@ cd lab1
 (в виме не очень видно :(, поэтому поставила gedit и отредактировала файл через него)
 <img width="1203" height="779" alt="image" src="https://github.com/user-attachments/assets/3c98752f-9505-4cf1-ae52-215a0fa0eb7a" />
 
+Запуск файла и проверка результата:
+<img width="949" height="593" alt="image" src="https://github.com/user-attachments/assets/2709e182-916d-48f5-977f-f54fb2b3336f" />
+
+и вам здравствуйте - все работает
 
